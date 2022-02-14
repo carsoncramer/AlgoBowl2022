@@ -1,0 +1,26 @@
+Carson Cramer, Rider Johnson, Pouya Zakeri, Ryan Wells
+Section B
+
+
+1. We are going to split it up amongst group members, and incorporate lots of in-person group work. We have created a GitHub already to host our code and everything else for AlgoBowl. 
+
+2. We are going to set some deadlines for our group that have us working long before the AlgoBowl. We are hoping to start working now and be completely prepared a week before AlgoBowl starts. 
+
+3. Attendance in class, to address that we will talk beforehand about meeting in that class period. 
+
+4. We are going to focus on communication and testing our product many times. 
+
+5. Attitude, communication and team-work skills.
+
+6. Yes
+
+7. C++
+
+8. Match smallest tasks to smallest machine times.
+
+9. We are going to put it in a text file. 
+
+10. We are going to check the output file and determine that it matches the correct form. 
+
+11. 40%, 40%, 20%
+ 
