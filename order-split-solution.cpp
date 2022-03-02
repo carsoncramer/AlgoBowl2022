@@ -17,6 +17,9 @@ class Machine {
 
     private:
         //pair<taskSize, taskId>
+
+        //Want to change vector to max heap
+
         vector<pair<double,int>> tasks; //this will be ordered
         double completionTime;
         int id;
